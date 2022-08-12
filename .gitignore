@@ -1,0 +1,4 @@
+input/*
+label_images_semantic/*
+original_images/*
+.ipynb_checkpoints
